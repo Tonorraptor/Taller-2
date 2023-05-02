@@ -399,3 +399,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 212.817680 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(a99726fe5b5b5d54db5e34134b6ecd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(a99726fe5b5b5d54db5e34134b6ecd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f91d3a83fb40fb8829df747d3da2f9d') in 0.013588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.705005 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbe31f4d840e006a03a9dfa010eb027') in 0.010630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.527722 seconds.
+  path: Assets/Scenes/potaxio.unity
+  artifactKey: Guid(79dd619ddfcf1054383d33c852d11110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/potaxio.unity using Guid(79dd619ddfcf1054383d33c852d11110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6936c7f002becd5b5122acada42cd0f9') in 0.002822 seconds 

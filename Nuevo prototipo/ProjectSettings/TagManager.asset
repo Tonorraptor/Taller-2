@@ -9,11 +9,15 @@ TagManager:
   - PlayerController
   - Bullet
   - EnemyBullet
+  - pared
+  - player
+  - enemy
+  - enemy2
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - pared
   - Water
   - UI
   - 
